@@ -1,13 +1,9 @@
-var webpack = require('webpack');
+const webpack = require('webpack');
 
-exports.modifyWebpackConfig = function(config, stage) {
-    if (!config.plugins) config.plugins = [];
-    config.plugins.push(
-        new webpack.ProvidePlugin({
+exports.modifyWebpackConfig = ({ config }) =>
+    config.plugin(`jQuery`, webpack.ProvidePlugin, [
+        {
             jQuery: 'jquery',
-            $: 'jquery',
-            "window.jquery": "jquery",
-        }));
-    // edit loaders here
-    return config
-}
+            'window.jQuery': 'jquery',
+        },
+    ])

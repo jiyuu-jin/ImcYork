@@ -1,7 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link';
-var $ = require('jquery');
-window.jQuery = $;
 require('materialize-css');
 
 const IndexPage = () =>({

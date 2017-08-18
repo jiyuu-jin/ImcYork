@@ -2,8 +2,9 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import Link from 'gatsby-link'
 import Helmet from 'react-helmet'
-import 'materialize-css/dist/css/materialize.css'
-import 'materialize-css'
+require("expose-loader?$!jquery");
+import "materialize-css"
+import "materialize-css/dist/css/materialize.css"
 import './index.css'
 
 
@@ -87,7 +88,7 @@ const TemplateWrapper = ({ children }) =>
               </div>
           </div>
       </footer>
-  </div>
+  </div>;
 
 TemplateWrapper.propTypes = {
   children: PropTypes.func,
