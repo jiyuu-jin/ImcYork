@@ -1,0 +1,79 @@
+[
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404.json",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-pages-appointments-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "appointments.json",
+        "path": "/appointments/"
+    },
+    {
+        "componentChunkName": "component---src-pages-emergencies-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "emergencies.json",
+        "path": "/emergencies/"
+    },
+    {
+        "componentChunkName": "component---src-pages-faqs-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "faqs.json",
+        "path": "/faqs/"
+    },
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-mdvip-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "mdvip.json",
+        "path": "/mdvip/"
+    },
+    {
+        "componentChunkName": "component---src-pages-page-2-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "page-2.json",
+        "path": "/page-2/"
+    },
+    {
+        "componentChunkName": "component---src-pages-patients-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "patients.json",
+        "path": "/patients/"
+    },
+    {
+        "componentChunkName": "component---src-pages-physicians-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "physicians.json",
+        "path": "/physicians/"
+    },
+    {
+        "componentChunkName": "component---src-pages-sculpsure-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "sculpsure.json",
+        "path": "/sculpsure/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "layout": "index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "404-html.json",
+        "path": "/404.html"
+    }
+]

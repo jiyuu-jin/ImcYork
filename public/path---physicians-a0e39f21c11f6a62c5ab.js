@@ -1,0 +1,2 @@
+webpackJsonp([0xdc368298223fb800],{"./node_modules/json-loader/index.js!./.cache/json/physicians.json":function(n,o){n.exports={pathContext:{}}}});
+//# sourceMappingURL=path---physicians-a0e39f21c11f6a62c5ab.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xd6a167fc00d0a000],{"./node_modules/json-loader/index.js!./.cache/json/patients.json":function(n,o){n.exports={pathContext:{}}}});
+//# sourceMappingURL=path---patients-a0e39f21c11f6a62c5ab.js.map

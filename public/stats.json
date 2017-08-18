@@ -1,0 +1,104 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-mdvip-js": [
+      "component---src-pages-mdvip-js-d3e626c902f374e69b6c.js",
+      "component---src-pages-mdvip-js-d3e626c902f374e69b6c.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-c5fe175a5340e0494357.js",
+      "component---src-pages-index-js-c5fe175a5340e0494357.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-96ed81415b1765a1d221.js",
+      "component---src-layouts-index-js-96ed81415b1765a1d221.js.map"
+    ],
+    "component---src-pages-sculpsure-js": [
+      "component---src-pages-sculpsure-js-13b2a0c5c67dbd8faa69.js",
+      "component---src-pages-sculpsure-js-13b2a0c5c67dbd8faa69.js.map"
+    ],
+    "path---page-2": [
+      "path---page-2-a0e39f21c11f6a62c5ab.js",
+      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-physicians-js": [
+      "component---src-pages-physicians-js-88811c6145b174ea3124.js",
+      "component---src-pages-physicians-js-88811c6145b174ea3124.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-emergencies-js": [
+      "component---src-pages-emergencies-js-b06b19531a0d494c43bc.js",
+      "component---src-pages-emergencies-js-b06b19531a0d494c43bc.js.map"
+    ],
+    "component---src-pages-faqs-js": [
+      "component---src-pages-faqs-js-b33596553b2b46fa0e56.js",
+      "component---src-pages-faqs-js-b33596553b2b46fa0e56.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-f68e3df0986f36c07464.js",
+      "component---src-pages-404-js-f68e3df0986f36c07464.js.map"
+    ],
+    "commons": [
+      "commons-e30d858b8c497d0089b6.js",
+      "commons-e30d858b8c497d0089b6.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---appointments": [
+      "path---appointments-a0e39f21c11f6a62c5ab.js",
+      "path---appointments-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---sculpsure": [
+      "path---sculpsure-a0e39f21c11f6a62c5ab.js",
+      "path---sculpsure-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-page-2-js": [
+      "component---src-pages-page-2-js-c925eb8b3d9caee8cdd6.js",
+      "component---src-pages-page-2-js-c925eb8b3d9caee8cdd6.js.map"
+    ],
+    "component---src-pages-patients-js": [
+      "component---src-pages-patients-js-1cc68c5e741235d14fe2.js",
+      "component---src-pages-patients-js-1cc68c5e741235d14fe2.js.map"
+    ],
+    "app": [
+      "app-d1a50d5ab6bde8fd591f.js",
+      "app-d1a50d5ab6bde8fd591f.js.map"
+    ],
+    "path---patients": [
+      "path---patients-a0e39f21c11f6a62c5ab.js",
+      "path---patients-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-appointments-js": [
+      "component---src-pages-appointments-js-183355019086697e6c9f.js",
+      "component---src-pages-appointments-js-183355019086697e6c9f.js.map"
+    ],
+    "path---physicians": [
+      "path---physicians-a0e39f21c11f6a62c5ab.js",
+      "path---physicians-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---mdvip": [
+      "path---mdvip-a0e39f21c11f6a62c5ab.js",
+      "path---mdvip-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---emergencies": [
+      "path---emergencies-a0e39f21c11f6a62c5ab.js",
+      "path---emergencies-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---faqs": [
+      "path---faqs-a0e39f21c11f6a62c5ab.js",
+      "path---faqs-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
